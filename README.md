@@ -14,7 +14,7 @@
 
 # Installation
 
- snippet npm i express.js mysql2 sequelize dotenv
+*  npm i express.js mysql2 sequelize dotenv
 
  # Video Demo:
 
