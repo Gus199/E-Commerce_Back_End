@@ -22,11 +22,11 @@
  * [V_Demo_2](https://watch.screencastify.com/v/gbjAyuSwaKVtj1hB9gwx)
 
  # Screen Shots:
- *  ![ScrenShot-01](./images/img1.gpn)  .
+ *  ![ScrenShot-01](./images/img1.gpn)  
 
- *  ![ScrenShot-01](images/img2.gpn)  .
+ *  ![ScrenShot-01](images/img2.gpn)  
 
- *  ![ScrenShot-01](images/img3.gpn)  .
+ *  ![ScrenShot-01](images/img3.gpn)  
 
 
 
